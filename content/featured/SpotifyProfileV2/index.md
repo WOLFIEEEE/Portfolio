@@ -1,16 +1,17 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
+title: Health-care Application
+cover: './HealthCare-Application.png'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - GatsbyJS
+  - Python
+  - Flask
+  - Netlify
+  - Heroku
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+A comprehensive healthcare application built using Gatsby that hosts various predictive models.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+"The aim of this healthcare application, built using Gatsby, is to serve as a repository for various predictive models, such as COVID prediction, pneumonia prediction, and breast cancer prediction. It provides students with a comprehensive platform for healthcare research, allowing them to analyze and predict potential healthcare outcomes."

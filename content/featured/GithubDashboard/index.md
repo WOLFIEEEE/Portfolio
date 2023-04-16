@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Github PortFolio'
-cover: './halcyon.png'
+cover: './Github_PortFolio.png'
 github: 'https://github.com/WOLFIEEEE/Github-Dashboard'
 external: 'https://gitdashboard.netlify.app/login'
 tech:
