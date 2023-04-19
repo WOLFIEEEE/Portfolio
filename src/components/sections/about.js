@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'Automation', 'Node.js', 'Testing'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,17 +135,39 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I am Khushwant Parihar, a recent graduate in Computer Science from Chandigarh
-              University. Currently, I am working as an IT Trainee at FIS Global, where I have
-              developed expertise in automation, web accessibility testing, manual testing,
-              accessibility, and Python programming language. My strong analytical and
-              problem-solving skills have helped me spearhead the transformation of a manual task
-              into an automated process.
+              I am Khushwant Parihar, a recent Computer Science graduate from{' '}
+              <a href="https://www.cuchd.in/"> Chandigarh University </a>, currently working as an
+              IT Trainee at <a href="https://www.fisglobal.com/en"> FIS Global </a>. My expertise
+              includes software development, automation, accessibility, and Python programming. I
+              have experience in backend development, using Node.js to develop efficient server-side
+              code.
             </p>
 
             <p>
+              Outside of work, I am passionate about contributing to{' '}
+              <a href="https://github.com/WOLFIEEEE">open source projects</a>
+              and Intermittently create pull requests to improve my skills and collaborate with
+              developers worldwide. I enjoy exploring trending technologies and tools, always
+              seeking to expand my knowledge and skills. Previously I have worked as Research and
+              Developemet Engineer at <a href="https://www.kssl.in/">Kalyani technologies</a>
+              where we{' '}
+              <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2318/1/012022/pdf">
+                built product from scrath
+              </a>
+              for Covid patients (POC).
+            </p>
+
+            <p>
+              I am a problem-solver with a team-player mentality, dedicated to writing clean and
+              efficient code to solve complex problems. I have a keen interest in software
+              development and I am planning to transition my career towards this field. I believe
+              that development is an ongoing learning process, and I am committed to improving my
+              skills and knowledge.
+            </p>
+
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
+              <a href="https://us.mullenlowe.com/">Kalyani technologies</a>,{' '} in Research and 
               <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
@@ -161,7 +183,7 @@ const About = () => {
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
