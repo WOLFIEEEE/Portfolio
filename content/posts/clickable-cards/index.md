@@ -1,7 +1,7 @@
 ---
-title: Accessible Clickable Cards
-description: Clickable cards with multiple child links
-date: 2021-04-21
+title: Soccer game Using Pygame
+description: A beginner level game built using python , I built it when I was pretty Much learning about Python
+date: 2020-04-21
 draft: false
 slug: /pensieve/clickable-cards
 tags:

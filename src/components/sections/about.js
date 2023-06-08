@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Automation', 'Node.js', 'Testing'];
+  const skills = ['JavaScript (ES6+)', 'Automation', 'Node.js', 'Testing', 'Accessibility'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -149,10 +149,11 @@ const About = () => {
               and Intermittently create pull requests to improve my skills and collaborate with
               developers worldwide. I enjoy exploring trending technologies and tools, always
               seeking to expand my knowledge and skills. Previously I have worked as Research and
-              Developemet Engineer at <a href="https://www.kssl.in/">Kalyani technologies</a>
+              Developemet Engineer at <a href="https://www.kssl.in/"> Kalyani technologies </a>
               where we{' '}
               <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2318/1/012022/pdf">
-                built product from scrath
+                {' '}
+                built product from scrath{' '}
               </a>
               for Covid patients (POC).
             </p>
