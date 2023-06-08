@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: Project Sanjeevani
-cover: './Sanjeevani.png'
+cover: './Sanjeevani1.png'
 external: ''
 cta: ''
 tech:
