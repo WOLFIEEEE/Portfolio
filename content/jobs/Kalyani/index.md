@@ -1,10 +1,10 @@
 ---
 date: '2021-02-04'
 title: 'R&D Intern'
-company: 'Kalyani Technologies'
+company: 'Kalyani Tech'
 location: 'Pune, MH'
 range: 'Feb - August 2021'
-url: 'https://www.apple.com/music/'
+url: 'https://www.kssl.in/'
 ---
 
 - Developed two innovative solutions, utilizing multiple technologies.
