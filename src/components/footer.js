@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+
+import React from 'react';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
 import { socialMedia } from '@config';
@@ -81,7 +84,7 @@ const Footer = () => (
     </StyledSocialLinks>
 
     <StyledCredit tabindex="-1">
-      <a href="https://github.com/bchiang7/v4">
+      <a href="https://github.com/WOLFIEEEE">
         <div>Designed &amp; Built by Khushwant Parihar</div>
       </a>
     </StyledCredit>
