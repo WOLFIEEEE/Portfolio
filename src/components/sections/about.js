@@ -136,26 +136,26 @@ const About = () => {
           <div>
             <p>
               I am Khushwant Parihar, a recent Computer Science graduate from{' '}
-              <a href="https://www.cuchd.in/"> Chandigarh University </a>, currently working as an
-              IT Trainee at <a href="https://www.fisglobal.com/en"> FIS Global </a>. My expertise
-              includes software development, automation, accessibility, and Python programming. I
-              have experience in backend development, using Node.js to develop efficient server-side
-              code.
+              <a href="https://www.cuchd.in/"> Chandigarh University </a>&nbsp;, currently working
+              as an IT Trainee at <a href="https://www.fisglobal.com/en"> FIS Global </a>. My
+              expertise includes software development, automation, accessibility, and Python
+              programming. I have experience in backend development, using Node.js to develop
+              efficient server-side code.
             </p>
 
             <p>
               Outside of work, I am passionate about contributing to{' '}
-              <a href="https://github.com/WOLFIEEEE">open source projects</a>
-              and Intermittently create pull requests to improve my skills and collaborate with
+              <a href="https://github.com/WOLFIEEEE">open source projects</a>&nbsp; and
+              Intermittently create pull requests to improve my skills and collaborate with
               developers worldwide. I enjoy exploring trending technologies and tools, always
               seeking to expand my knowledge and skills. Previously I have worked as Research and
               Developemet Engineer at <a href="https://www.kssl.in/"> Kalyani technologies </a>
-              where we{' '}
+              &nbsp; where we{' '}
               <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2318/1/012022/pdf">
                 {' '}
                 built product from scrath{' '}
               </a>
-              for Covid patients (POC).
+              &nbsp; for Covid patients (POC).
             </p>
 
             <p>
