@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Khushwant Parihar',
     description:
-      'Khushwant Parihar is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Khushwant Parihar is a software engineer who specializes in building (and occasionally designing) exceptional digital and backend experiences.',
     siteUrl: 'https://khushwantparihar.in', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@wolfiekhushwant',
